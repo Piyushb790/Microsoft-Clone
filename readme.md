@@ -1,4 +1,4 @@
-# Paytm Clone
+# Microsft Clone
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%234FC3F7) ![](https://img.shields.io/badge/HTML-5-%23FF7043) ![](https://img.shields.io/badge/Responsive-Design-%23B2EBF2)
 
@@ -16,7 +16,7 @@
 
 <img align="left" alt="Tailwind CSS" src="./assets/icons8-tailwind-css-28.png"> `Tailwind CSS`
 
- # Deploy Link [Paytm India](https://paytmindia.netlify.app/)
+ # Deploy Link -> [Microsoft Clone](https://microsoft-clone-in.netlify.app/)
 
 # Key Features
 - Clean User Interface.
